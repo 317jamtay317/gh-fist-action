@@ -6,5 +6,8 @@ jobs:
     steps:
       - name: First Step
         run: |
-          cd ./.github/workflows
+          ls
+          cd ./.github
+          ls
+          cd ./workflows
           ls
