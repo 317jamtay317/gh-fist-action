@@ -7,7 +7,3 @@ jobs:
       - name: First Step
         run: |
           ls
-          cd ./.github
-          ls
-          cd ./workflows
-          ls
